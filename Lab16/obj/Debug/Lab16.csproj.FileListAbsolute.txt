@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Lab16.dll
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Lab16.pdb
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.dll
+c:\users\home\documents\visual studio 2015\Projects\Lab16\Lab16\obj\Debug\Lab16.pdb
